@@ -1,0 +1,29 @@
+# MIGASK Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2025-11-16
+
+## Active Technologies
+
+- Swift 5.9+ (iOS 17.0+ deployment target) + SwiftUI, Core Data, Firebase (Firestore, Analytics), StoreKi (001-miga-mvp-spec)
+
+## Project Structure
+
+```text
+src/
+tests/
+```
+
+## Commands
+
+# Add commands for Swift 5.9+ (iOS 17.0+ deployment target)
+
+## Code Style
+
+Swift 5.9+ (iOS 17.0+ deployment target): Follow standard conventions
+
+## Recent Changes
+
+- 001-miga-mvp-spec: Added Swift 5.9+ (iOS 17.0+ deployment target) + SwiftUI, Core Data, Firebase (Firestore, Analytics), StoreKi
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->
